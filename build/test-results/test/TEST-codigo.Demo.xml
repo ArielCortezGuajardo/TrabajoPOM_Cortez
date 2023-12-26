@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="codigo.Demo" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-29T20:53:19" hostname="NBEX69X06" time="31.724">
+<testsuite name="codigo.Demo" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-26T14:39:27" hostname="NBEX69X06" time="15.422">
   <properties/>
-  <testcase name="CP005_Contactenos()" classname="codigo.Demo" time="31.724"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 119.0.6045.105 (38c72552c5e15ba9b3117c0967a0fd105072d7c6-refs/branch-heads/6045@{#1103}) on port 1663
+  <testcase name="CP005_consulta_boletaElectronica_noExiste()" classname="codigo.Demo" time="15.422"/>
+  <system-out><![CDATA[La cantidad de hojas del excel es: 1
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 119.0.6045.105 (38c72552c5e15ba9b3117c0967a0fd105072d7c6-refs/branch-heads/6045@{#1103}) on port 44979
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-nov 29, 2023 5:53:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1703601569.706][WARNING]: This version of ChromeDriver has not been tested with Chrome version 120.
+dic 26, 2023 11:39:30 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: W3C
 ]]></system-err>
 </testsuite>
